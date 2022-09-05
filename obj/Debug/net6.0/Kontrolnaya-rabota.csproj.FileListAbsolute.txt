@@ -1,0 +1,15 @@
+G:\ВИКА\Программирование\Kontr rabota\Kontrolnaya-rabota\bin\Debug\net6.0\Kontrolnaya-rabota.exe
+G:\ВИКА\Программирование\Kontr rabota\Kontrolnaya-rabota\bin\Debug\net6.0\Kontrolnaya-rabota.deps.json
+G:\ВИКА\Программирование\Kontr rabota\Kontrolnaya-rabota\bin\Debug\net6.0\Kontrolnaya-rabota.runtimeconfig.json
+G:\ВИКА\Программирование\Kontr rabota\Kontrolnaya-rabota\bin\Debug\net6.0\Kontrolnaya-rabota.dll
+G:\ВИКА\Программирование\Kontr rabota\Kontrolnaya-rabota\bin\Debug\net6.0\Kontrolnaya-rabota.pdb
+G:\ВИКА\Программирование\Kontr rabota\Kontrolnaya-rabota\obj\Debug\net6.0\Kontrolnaya-rabota.csproj.AssemblyReference.cache
+G:\ВИКА\Программирование\Kontr rabota\Kontrolnaya-rabota\obj\Debug\net6.0\Kontrolnaya-rabota.GeneratedMSBuildEditorConfig.editorconfig
+G:\ВИКА\Программирование\Kontr rabota\Kontrolnaya-rabota\obj\Debug\net6.0\Kontrolnaya-rabota.AssemblyInfoInputs.cache
+G:\ВИКА\Программирование\Kontr rabota\Kontrolnaya-rabota\obj\Debug\net6.0\Kontrolnaya-rabota.AssemblyInfo.cs
+G:\ВИКА\Программирование\Kontr rabota\Kontrolnaya-rabota\obj\Debug\net6.0\Kontrolnaya-rabota.csproj.CoreCompileInputs.cache
+G:\ВИКА\Программирование\Kontr rabota\Kontrolnaya-rabota\obj\Debug\net6.0\Kontrolnaya-rabota.dll
+G:\ВИКА\Программирование\Kontr rabota\Kontrolnaya-rabota\obj\Debug\net6.0\refint\Kontrolnaya-rabota.dll
+G:\ВИКА\Программирование\Kontr rabota\Kontrolnaya-rabota\obj\Debug\net6.0\Kontrolnaya-rabota.pdb
+G:\ВИКА\Программирование\Kontr rabota\Kontrolnaya-rabota\obj\Debug\net6.0\Kontrolnaya-rabota.genruntimeconfig.cache
+G:\ВИКА\Программирование\Kontr rabota\Kontrolnaya-rabota\obj\Debug\net6.0\ref\Kontrolnaya-rabota.dll
